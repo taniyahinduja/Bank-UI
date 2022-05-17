@@ -1,0 +1,21 @@
+.Card-Container{
+    border:1px solid black;
+    height : 80%;
+    width: 340px; 
+    position: relative;
+    padding: 20px;
+}
+
+hr{
+    height: 1px;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: rgb(122, 122, 122);
+    border: none;
+}
+h6{
+    color: rgb(168, 168, 168);
+}
+span{
+    color: rgb(155, 155, 155);
+}
