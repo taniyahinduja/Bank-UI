@@ -1,0 +1,19 @@
+.spending{
+    margin-left: 10%;
+    color: #a5a5a5;
+    margin-right: 10%;
+}
+#spent{
+    color: red;
+}
+#slash{
+    color: black;
+}
+#total{
+    color: rgb(4, 204, 4);
+}
+
+#progressBar{
+    margin-right: 10%;
+    width: 20vw;
+}

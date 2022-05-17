@@ -1,0 +1,14 @@
+.cards{
+   
+    height: 100%;
+    width: 100%;
+    min-width: 90%;
+    height: 150px;
+    line-height: 110px;
+    text-align: left;
+    margin-right: 10px;
+    
+}
+.content{
+    margin:10px
+}

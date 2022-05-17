@@ -1,0 +1,15 @@
+.addButton{
+    background-color: rgb(42, 42, 61);
+    height: 50px;
+    width: 50px;
+    border-radius:50px;
+    position: absolute; 
+    bottom: 0;
+    right:0; 
+    margin: 10px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 150%;
+}

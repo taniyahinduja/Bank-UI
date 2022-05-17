@@ -1,0 +1,18 @@
+
+.transactionList{
+    /* margin-left: 10%;
+    margin-right: 10%; */
+    height: 40px;
+}
+
+.sc{
+    overflow-y: scroll;
+    max-height: 200px;
+    margin-left: 10px;
+    width: 100%;
+    /* margin-right: 10px;
+    margin-top: 10px; */
+}
+.sc::-webkit-scrollbar{
+    width: 0px;
+}

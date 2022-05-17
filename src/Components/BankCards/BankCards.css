@@ -1,0 +1,23 @@
+.card
+{
+    height: 30%;
+}
+
+.wrapper{
+    display: flex;
+    overflow-x: auto;
+    width: 100%;
+  }
+  .wrapper::-webkit-scrollbar{
+    width: 0;
+  }
+  .wrapper .main{
+      
+      min-width: 90%;
+      height: 150px;
+      line-height: 110px;
+      text-align: left;
+      background-color: aqua;
+      margin-right: 2px;
+  }
+

@@ -1,0 +1,18 @@
+.Card-Container{
+    border:1px solid black;
+    height : 80%;
+    width: 340px; 
+    position: relative;
+}
+
+hr{
+    height: 1px;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: rgb(211, 211, 211);
+    border: none;
+}
+
+
+
+
