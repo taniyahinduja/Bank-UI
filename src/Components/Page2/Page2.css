@@ -19,3 +19,7 @@ h6{
 span{
     color: rgb(155, 155, 155);
 }
+img{
+    width: 100%;
+    margin-top: 25px;
+}
