@@ -5,11 +5,11 @@ import AddButton from "../AddButton/AddButton";
 import Spendings from "../Spendings/Spendings";
 import ListHolder from "../ListHolder/ListHolder";
 
-function DataCard() {
+function DataCard(props) {
     return (
         <div class="Card-Container">
             <Navbar />
-            <BankCards />
+            <BankCards setPage={props.setPage} page={props.page}/>
             <hr></hr>
             <Spendings />
             <ListHolder />

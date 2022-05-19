@@ -1,12 +1,15 @@
 .card
 {
     height: 30%;
+    
 }
+
 
 .wrapper{
     display: flex;
     overflow-x: auto;
     width: 100%;
+    
   }
   .wrapper::-webkit-scrollbar{
     width: 0;

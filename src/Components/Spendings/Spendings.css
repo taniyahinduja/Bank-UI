@@ -2,15 +2,22 @@
     margin-left: 10%;
     color: #a5a5a5;
     margin-right: 10%;
+    margin-top: -13px;
+    margin-bottom: 20px;
+}
+#spent, #slash, #total{
+    font-weight: bold;
+    font-size: 13px;
 }
 #spent{
-    color: red;
+    color: rgb(214, 0, 0);
+    
 }
 #slash{
     color: black;
 }
 #total{
-    color: rgb(4, 204, 4);
+    color: green;
 }
 
 #progressBar{
